@@ -1,0 +1,4 @@
+Description
+===========
+RightScale Cookbooks Override
+
