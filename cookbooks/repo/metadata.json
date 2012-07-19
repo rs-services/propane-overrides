@@ -1,0 +1,29 @@
+{
+  "name": "repo",
+  "description": "Abstract cookbook for managing source code repositories.",
+  "long_description": "",
+  "maintainer": "RightScale, Inc.",
+  "maintainer_email": "ps@rightscale.com",
+  "license": "Copyright RightScale, Inc. All rights reserved.",
+  "platforms": {
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "12.1.0"
+}
