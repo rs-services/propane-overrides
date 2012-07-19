@@ -1,0 +1,29 @@
+{
+  "name": "lb_clb",
+  "description": "Adds application servers to CLB",
+  "long_description": "",
+  "maintainer": "RightScale, Inc.",
+  "maintainer_email": "ps@rightscale.com",
+  "license": "Copyright RightScale, Inc. All rights reserved.",
+  "platforms": {
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "12.1.0"
+}
